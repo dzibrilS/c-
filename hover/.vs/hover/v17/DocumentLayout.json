@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\vsProject\\hover\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6850F2-4B32-4351-8FA0-7EA2D524C04F}|hover\\hover.csproj|f:\\vsproject\\hover\\hover\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6850F2-4B32-4351-8FA0-7EA2D524C04F}|hover\\hover.csproj|solutionrelative:hover\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6850F2-4B32-4351-8FA0-7EA2D524C04F}|hover\\hover.csproj|f:\\vsproject\\hover\\hover\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE6850F2-4B32-4351-8FA0-7EA2D524C04F}|hover\\hover.csproj|solutionrelative:hover\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\vsProject\\hover\\hover\\Form1.cs",
+              "RelativeDocumentMoniker": "hover\\Form1.cs",
+              "ToolTip": "F:\\vsProject\\hover\\hover\\Form1.cs [Design]",
+              "RelativeToolTip": "hover\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:32:57.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\vsProject\\hover\\hover\\Form1.cs",
+              "RelativeDocumentMoniker": "hover\\Form1.cs",
+              "ToolTip": "F:\\vsProject\\hover\\hover\\Form1.cs",
+              "RelativeToolTip": "hover\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:25:41.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

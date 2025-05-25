@@ -1,0 +1,17 @@
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.Form1.resources
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.csproj.GenerateResource.cache
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.AssemblyInfoInputs.cache
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.AssemblyInfo.cs
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.csproj.CoreCompileInputs.cache
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.sourcelink.json
+F:\vsProject\hover\hover\bin\Debug\net8.0-windows\hover.exe
+F:\vsProject\hover\hover\bin\Debug\net8.0-windows\hover.deps.json
+F:\vsProject\hover\hover\bin\Debug\net8.0-windows\hover.runtimeconfig.json
+F:\vsProject\hover\hover\bin\Debug\net8.0-windows\hover.dll
+F:\vsProject\hover\hover\bin\Debug\net8.0-windows\hover.pdb
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.dll
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\refint\hover.dll
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.pdb
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\hover.genruntimeconfig.cache
+F:\vsProject\hover\hover\obj\Debug\net8.0-windows\ref\hover.dll
