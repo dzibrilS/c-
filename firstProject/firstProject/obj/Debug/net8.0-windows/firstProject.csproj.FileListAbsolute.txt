@@ -1,0 +1,16 @@
+F:\vsProject\firstProject\firstProject\bin\Debug\net8.0-windows\firstProject.exe
+F:\vsProject\firstProject\firstProject\bin\Debug\net8.0-windows\firstProject.deps.json
+F:\vsProject\firstProject\firstProject\bin\Debug\net8.0-windows\firstProject.runtimeconfig.json
+F:\vsProject\firstProject\firstProject\bin\Debug\net8.0-windows\firstProject.dll
+F:\vsProject\firstProject\firstProject\bin\Debug\net8.0-windows\firstProject.pdb
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\firstProject.Form1.resources
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\firstProject.csproj.GenerateResource.cache
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\firstProject.AssemblyInfoInputs.cache
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\firstProject.AssemblyInfo.cs
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\firstProject.csproj.CoreCompileInputs.cache
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\firstProject.dll
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\refint\firstProject.dll
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\firstProject.pdb
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\firstProject.genruntimeconfig.cache
+F:\vsProject\firstProject\firstProject\obj\Debug\net8.0-windows\ref\firstProject.dll

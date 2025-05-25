@@ -1,0 +1,16 @@
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.Form1.resources
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.csproj.GenerateResource.cache
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.AssemblyInfoInputs.cache
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.AssemblyInfo.cs
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.csproj.CoreCompileInputs.cache
+F:\vsProject\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.exe
+F:\vsProject\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.deps.json
+F:\vsProject\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.runtimeconfig.json
+F:\vsProject\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.dll
+F:\vsProject\kalkulator\kalkulator\bin\Debug\net8.0-windows\kalkulator.pdb
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.dll
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\refint\kalkulator.dll
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.pdb
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\kalkulator.genruntimeconfig.cache
+F:\vsProject\kalkulator\kalkulator\obj\Debug\net8.0-windows\ref\kalkulator.dll
